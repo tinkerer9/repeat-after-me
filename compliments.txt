@@ -1,0 +1,11 @@
+You got this!
+Awesome!
+Go for it!
+You're gonna win!
+You're so fast!
+Your fingers are the keys!
+You're too good for me!
+[python error: player too fast]
+Good job!
+Whoa... incredible!
+You're a rockstar!
